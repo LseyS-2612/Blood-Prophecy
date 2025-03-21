@@ -1,0 +1,68 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fantasy Game", "Fantasy Game\Fantasy Game.csproj", "{9B31EF93-DD7C-4B6C-8C98-E5C15BF0CA2C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AE85E82B-48C1-4631-88D0-383E8FB92373}"
+	ProjectSection(SolutionItems) = preProject
+		Fantasy Game\Resources\Ability_hunter_beastwithin.png = Fantasy Game\Resources\Ability_hunter_beastwithin.png
+		Fantasy Game\Resources\Ability_hunter_quickshot.png = Fantasy Game\Resources\Ability_hunter_quickshot.png
+		Fantasy Game\Resources\Ability_hunter_snipershot.png = Fantasy Game\Resources\Ability_hunter_snipershot.png
+		Fantasy Game\Resources\Ability_mage_arcanebarrage_nightborne.png = Fantasy Game\Resources\Ability_mage_arcanebarrage_nightborne.png
+		Fantasy Game\Resources\Ability_mage_greaterpyroblast.png = Fantasy Game\Resources\Ability_mage_greaterpyroblast.png
+		Fantasy Game\Resources\Ability_mage_potentspirit.png = Fantasy Game\Resources\Ability_mage_potentspirit.png
+		Fantasy Game\Resources\Ability_mage_studentofthemind.png = Fantasy Game\Resources\Ability_mage_studentofthemind.png
+		Fantasy Game\Resources\Ability_paladin_bladeofjustice.png = Fantasy Game\Resources\Ability_paladin_bladeofjustice.png
+		Fantasy Game\Resources\Ability_paladin_holyavenger.png = Fantasy Game\Resources\Ability_paladin_holyavenger.png
+		Fantasy Game\Resources\Ability_paladin_lightoftheprotector.png = Fantasy Game\Resources\Ability_paladin_lightoftheprotector.png
+		Fantasy Game\Resources\Ability_paladin_selflesshealer.png = Fantasy Game\Resources\Ability_paladin_selflesshealer.png
+		Fantasy Game\Resources\Ability_rogue_improvedrecuperate.png = Fantasy Game\Resources\Ability_rogue_improvedrecuperate.png
+		Fantasy Game\Resources\Ability_warrior_incite.png = Fantasy Game\Resources\Ability_warrior_incite.png
+		Fantasy Game\Resources\Ability_warrior_innerrage.png = Fantasy Game\Resources\Ability_warrior_innerrage.png
+		Fantasy Game\Resources\Ability_warrior_rallyingcry.png = Fantasy Game\Resources\Ability_warrior_rallyingcry.png
+		Fantasy Game\Resources\Ability_warrior_warbringer.png = Fantasy Game\Resources\Ability_warrior_warbringer.png
+		Fantasy Game\Resources\barmid_ready.png = Fantasy Game\Resources\barmid_ready.png
+		Fantasy Game\Resources\big_dark_bar.png = Fantasy Game\Resources\big_dark_bar.png
+		Fantasy Game\Resources\button.png = Fantasy Game\Resources\button.png
+		Fantasy Game\Resources\button_frame.png = Fantasy Game\Resources\button_frame.png
+		Fantasy Game\Resources\button_ready_off.png = Fantasy Game\Resources\button_ready_off.png
+		Fantasy Game\Resources\button_ready_on.png = Fantasy Game\Resources\button_ready_on.png
+		Fantasy Game\Resources\character-.png = Fantasy Game\Resources\character-.png
+		Fantasy Game\Resources\corner_ornament.png = Fantasy Game\Resources\corner_ornament.png
+		Fantasy Game\Resources\corner_ornament1.png = Fantasy Game\Resources\corner_ornament1.png
+		Fantasy Game\Resources\corner_ornament2.png = Fantasy Game\Resources\corner_ornament2.png
+		Fantasy Game\Resources\corner_ornament3.png = Fantasy Game\Resources\corner_ornament3.png
+		Fantasy Game\Resources\corner_ornament4.png = Fantasy Game\Resources\corner_ornament4.png
+		Fantasy Game\Images\dark-fantasy-scene.jpg = Fantasy Game\Images\dark-fantasy-scene.jpg
+		Fantasy Game\Resources\exit-.png = Fantasy Game\Resources\exit-.png
+		Fantasy Game\Resources\Frame_mid_2.png = Fantasy Game\Resources\Frame_mid_2.png
+		Fantasy Game\Resources\health_frame.png = Fantasy Game\Resources\health_frame.png
+		Fantasy Game\Resources\home-.png = Fantasy Game\Resources\home-.png
+		Fantasy Game\Resources\Hp_frame.png = Fantasy Game\Resources\Hp_frame.png
+		Fantasy Game\Resources\mid_background.png = Fantasy Game\Resources\mid_background.png
+		Fantasy Game\Resources\name_bar3.png = Fantasy Game\Resources\name_bar3.png
+		Fantasy Game\Resources\panel-transparent-center-027.png = Fantasy Game\Resources\panel-transparent-center-027.png
+		Fantasy Game\Images\rock-background-n9xs8ev7kw9n2i8z.jpg = Fantasy Game\Images\rock-background-n9xs8ev7kw9n2i8z.jpg
+		Fantasy Game\Resources\rock-background-n9xs8ev7kw9n2i8z.jpg = Fantasy Game\Resources\rock-background-n9xs8ev7kw9n2i8z.jpg
+		Fantasy Game\Resources\scroll-.png = Fantasy Game\Resources\scroll-.png
+		Fantasy Game\Resources\warrior_silhouette_man.png = Fantasy Game\Resources\warrior_silhouette_man.png
+		Fantasy Game\Resources\warrior_silhouette_woman.png = Fantasy Game\Resources\warrior_silhouette_woman.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B31EF93-DD7C-4B6C-8C98-E5C15BF0CA2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B31EF93-DD7C-4B6C-8C98-E5C15BF0CA2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B31EF93-DD7C-4B6C-8C98-E5C15BF0CA2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B31EF93-DD7C-4B6C-8C98-E5C15BF0CA2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
