@@ -1,1 +1,3 @@
-# Fantasy Game
+This project was intended to be my first experience with C# and Windows Forms for a school assignment. While I made progress in creating a graphical user interface (GUI) with basic controls like buttons, textboxes, and labels, I was unable to complete the entire functionality as initially planned.
+
+Due to various challenges and limitations, I couldn’t implement all of the features I wanted, and I found it difficult to continue. As a result, this project remains unfinished. Despite not achieving everything I had hoped for, I learned valuable lessons about programming in C# and working with Windows Forms. I recognize this as a part of my learning journey and plan to improve upon this in the future.
